@@ -1,2 +1,2 @@
-alert('Hello,Osamu!');
+alert('Hello,Toua!');
 alert(1+1);
